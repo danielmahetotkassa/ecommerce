@@ -1,0 +1,7 @@
+Steps in creating Spring boot enterprise applications 
+java applications :
+Step - 1 - Creating models
+Step - 2 - Creaing DAO
+Step - 3 - Creating Controllers
+Step - 4 - Creating the views using JSP
+
